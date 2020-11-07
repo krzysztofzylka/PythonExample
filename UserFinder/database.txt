@@ -1,0 +1,19 @@
+urlcode||facebook.com||http://facebook.com/$login$||||
+urlcode||instagram.com||http://instagram.com/$login$||||
+pagetitle||twitter.com||http://twitter.com/$login$||@$login$||
+urlcode||youtube.com||http://youtube.com/user/$login$||||
+urlcode||pinterest.com||http://pinterest.com/$login$||||
+urlcode||reddit.com||http://www.reddit.com/user/$login$||||
+urlcode||soundcloud.com||http://www.soundcloud.com/$login$||||
+urlcode||tumblr.com||http://$login$.tumblr.com/||||
+pagetitle||disqus.com||http://disqus.com/by/$login$||Disqus Profile||
+pagetitle||tiktok.com||http://tiktok.com/@$login$||@$login$||
+urlcode||myspace.com||http://myspace.com/$login$||||
+urlcode||olx.pl||http://olx.pl/oferty/uzytkownik/$login$||||
+pagetitle||ebay.de||http://ebay.de/usr/$login$||error||reverse
+urlcode||trakt.tv||http://trakt.tv/user/$login$||||
+urlcode||flickr.com||http://flickr.com/photos/$login$||||
+urlcode||allegro.pl||http://allegro.pl/uzytkownik/$login$||||
+urlcode||chomikuj.pl||http://chomikuj.pl/$login$||||
+urlcode||snapchat.com||https://story.snapchat.com/s/$login$||||
+urlcode||github.com||http://github.com/$login$||||
